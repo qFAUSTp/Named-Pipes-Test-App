@@ -1,2 +1,2 @@
-# Named-Pipes-Test-App
- For test
+# Named Pipes Test App
+ Simple two task communication example using Named Pipes
